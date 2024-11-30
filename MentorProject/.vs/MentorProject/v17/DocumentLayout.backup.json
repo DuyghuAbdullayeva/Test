@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\entities\\appdbcontextentity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\entities\\appdbcontextentity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\entities\\appdbcontextentity\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\entities\\appdbcontextentity\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\configs\\schoolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\configs\\schoolconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\migrations\\20241129204505_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\migrations\\20241129204505_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|c:\\users\\user\\desktop\\mentorpr\\mentorproject\\mentorproject\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236CC4F8-5729-4FDA-971C-5243F2129667}|MentorProject\\MentorProject.csproj|solutionrelative:mentorproject\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241129204505_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Migrations\\20241129204505_InitialMigration.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Migrations\\20241129204505_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Migrations\\20241129204505_InitialMigration.cs",
+              "RelativeToolTip": "MentorProject\\Migrations\\20241129204505_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:45:06.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Configs\\SchoolConfiguration.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Configs\\SchoolConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Configs\\SchoolConfiguration.cs",
+              "RelativeToolTip": "MentorProject\\Configs\\SchoolConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:11:30.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MentorProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\appsettings.json",
+              "RelativeToolTip": "MentorProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T19:34:28.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Program.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Program.cs",
+              "RelativeToolTip": "MentorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:31:32.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "MentorProject\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:17:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Entities\\AppdbContextEntity\\Student.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Entities\\AppdbContextEntity\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Entities\\AppdbContextEntity\\Student.cs",
+              "RelativeToolTip": "MentorProject\\Entities\\AppdbContextEntity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:09:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Entities\\AppdbContextEntity\\School.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Entities\\AppdbContextEntity\\School.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Entities\\AppdbContextEntity\\School.cs",
+              "RelativeToolTip": "MentorProject\\Entities\\AppdbContextEntity\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:09:25.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MentorProject\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MentorPr\\MentorProject\\MentorProject\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "MentorProject\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:08:49.538Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
